@@ -1,0 +1,28 @@
+
+h1 {
+    color:rgb(0, 128, 96)   
+}
+h2 {
+    color:blue
+}
+p strong {
+    color:red
+}
+.destacado {
+    color:orange
+}
+a {
+    color:red
+}
+em {
+    color:blue
+}
+p .especial {
+    color:purple
+}
+caption {
+    color:blue
+}
+table {
+    
+}
