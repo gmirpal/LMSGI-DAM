@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding: 0px;
+    font-size: 15px;
+    margin: -20px;
+}
+#caja-superior{
+    background-image: url(https://picsum.photos/300/300/?blur);
+    background-repeat:round;
+    margin: 0px;
+    padding: 0px;
+    height: 400px;
+}
+h1{
+    padding-top: 100px;
+    color: white;
+    font-weight: 1000;
+    padding-left:400px;
+    padding-right: 400px;
+}
+p{
+    padding-top: 30px;
+    color: white;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+#caja-inferior{
+    background-color: #FF6666;
+    height: 400px;
+    padding-top: 0px;
+}
+h2{
+    color:white;
+    margin-top: 0px;
+    padding-top: 30px;
+
+}
+.button{
+    background-color: aliceblue;
+    border: 0px crimson;
+    border-radius: 20px;
+    margin: 20px auto ;
+    padding: 13px;
+    margin-left: 630px;
+    margin-right: 630px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#red-button{
+    background-color: #FF6666;
+}
+#red-button a{
+    color: white;
+}

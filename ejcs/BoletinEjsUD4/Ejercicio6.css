@@ -1,0 +1,33 @@
+tr{
+    color: teal;
+}
+#two{
+    color: red;
+}
+#three {
+    color: blue;
+}
+#four {
+    color: orange;
+}
+#five{
+    color: purple;
+}
+#six{
+    color: olive;
+}
+#seven{
+    color: fuchsia;
+}
+#eight{
+    color: green;
+}
+.uno{
+    background-color: red;
+}
+.dos{
+    background-color: green;
+}
+.tres{
+    background-color: blue;
+}
